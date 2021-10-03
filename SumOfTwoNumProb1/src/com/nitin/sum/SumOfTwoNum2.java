@@ -5,6 +5,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
+//time complexity O(n)
 public class SumOfTwoNum2 {
 
 	public static void main(String[] args) {
